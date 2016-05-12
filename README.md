@@ -6,7 +6,6 @@ A chess AI that uses a depth-limited minimax search with alpha-beta pruning.
 
 ## Installation and Usage
 
-```
-bundle install
-ruby game.rb
-```
+1. `bundle install`
+2. `ruby game.rb`
+
